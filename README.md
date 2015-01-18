@@ -4,7 +4,7 @@ video delivered just the way you like it
 
 ![videopizza](https://raw.githubusercontent.com/amontalenti/videopizza/master/assets/videopizza-logo.png)
 
-![videopizzagif](https://raw.githubusercontent.com/amontalenti/videopizza/master/assets/VIDEOpizza.gif)
+![videopizzagif](https://vine.co/v/OjTAX9I2ibt)
 
 # Integration Project req's
 
