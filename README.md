@@ -16,11 +16,11 @@ video delivered just the way you like it
 
 ## Use cases
 
-- Link TODO
+[Use Cases GDoc](https://docs.google.com/document/d/1kvWGFQ0miHO-LFh-mWiLq8OghXatsshenioPZdnQOs0/edit)
 
 ## Logo and Branding
 
-- Link TODO
+in `assets/`
 
 ## Player tool
 
