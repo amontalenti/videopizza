@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>(RN) {% block title %}{% endblock %}</title>
+        <title>VideoPizza - {% block title %}{% endblock %}</title>
 
         {{ link_tag('lib/bootstrap') }}
         {{ link_tag('lib/bootstrap-responsive') }}
@@ -22,19 +22,19 @@
                     <a class="brand hidden-phone">VideoPizza</a>
                     <a class="brand visible-phone">VP</a>
                     <ul class="nav">
-                        <li class="active"><a href="#">Video</a></li>
-                        <li><a href="/submit.html">Text</a></li>
+                        <li><a href="/">home</a></li>
+                        <li><a target="_blank" href="#">autoclipper</a></li>
+                        <li><a target="_blank" href="http://4d04d1f7.ngrok.com/">annotator</a></li>
+                        <li><a target="_blank" href="https://vine.co/v/OjTAX9I2ibt">vine</a></li>
+                        <li><a target="_blank" href="https://github.com/amontalenti/videopizza">github</a></li>
+                        <li><a href="#">submit</a></li>
+                        <li class="logout"><a href="#">logout</a></li>
                     </ul>
-                    <!--
-                    <form class="navbar-search pull-right hidden-phone" action="/search">
-                        <small><i class="icon-search"></i> Search</small>
-                        <input name="query" type="text" class="search-query" placeholder="">
-                    </form>
-                    -->
                 </div>
             </div>
 
             {% block body %}
+                <img src="static/img/videopizza.png">
             {% endblock %}
 
             <!-- </bootstrap> -->

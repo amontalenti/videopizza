@@ -1,13 +1,32 @@
 {% extends 'layout.jinja2.html' %}
 {% from 'util.jinja2.html' import link_tag, js_tag %}
 
-{% block title %}videopizza{% endblock %}
+{% block title %}Home{% endblock %}
 
 {% block css %}
         {{ link_tag('main') }}
 {% endblock %}
 
 {% block body %}
+            <div align="center">
+                <img src="static/img/videopizza.png">
+            </div>
+            <div id="first-visit-dialog" class="modal hide fade in">
+                <div class="modal-header">
+                    <a class="close" data-dismiss="modal">×</a>
+                    <h3>Welcome to VideoPizza!</h3>
+                </div>
+                <div class="modal-body">
+                    <h4>VideoPizza delivers video just the way you like it</h4>
+                    <p>This test integration site just links to our loosely
+                    coupled tools for making longform video accessible to the
+                    masses!</p>
+                </div>
+                <div class="modal-footer">
+                    <a href="#" class="btn" data-dismiss="modal">Close</a>
+                </div>
+            </div>
+
 {% endblock %}
 
 {% block js %}
