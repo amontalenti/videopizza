@@ -34,7 +34,9 @@ social engagement over smaller portions of the full video.
 - Bootstrap / HTML / LESS
 - [Video.js](http://www.videojs.com/)
 
-## Autoclip tool
+## Autoclipper tool
+
+Code: `submodules/autoclipper`
 
 User: journalist / editor / video producer
 
@@ -48,7 +50,9 @@ can then choose which clips are actually interesting and tweet/share those.
 - [VideoGrep](https://github.com/antiboredom/videogrep)
 - [MoviePy](http://zulko.github.io/moviepy/)
 
-## Annotation tool
+## Annotator tool
+
+Code: `submodules/annotator`
 
 User: journalist / editor / video producer
 
