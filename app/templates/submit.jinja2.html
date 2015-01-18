@@ -1,0 +1,29 @@
+{% extends 'layout.jinja2.html' %}
+{% from 'util.jinja2.html' import link_tag, js_tag %}
+
+{% block title %}Submit News{% endblock %}
+
+{% block css %}
+        {{ link_tag('main') }}
+{% endblock %}
+
+{% block body %}
+            <div id="submit-form">
+                <form>
+                    <fieldset>
+                        <legend>Make a VideoPizza!</legend>
+                        <label>Video Link</label>
+                        <input type="text" placeholder="http://...">
+                        <label>Title</label>
+                        <input type="text" placeholder="news headline or description">
+                        <div class="control-group">
+                            <button type="submit" class="btn">Fresh Delivery!</button>
+                        </div>
+                    </fieldset>
+                </form>
+            </div>
+{% endblock %}
+
+{% block js %}
+        {{ script_tag('submit') }}
+{% endblock %}

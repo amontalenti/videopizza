@@ -1,0 +1,18 @@
+{% extends 'layout.jinja2.html' %}
+{% from 'util.jinja2.html' import link_tag, js_tag %}
+
+{% block title %}videopizza{% endblock %}
+
+{% block css %}
+        {{ link_tag('main') }}
+{% endblock %}
+
+{% block body %}
+{% endblock %}
+
+{% block js %}
+        {{ script_tag('cookies') }}
+        {{ script_tag('animation') }}
+        {{ script_tag('firstuser') }}
+        {{ script_tag('main') }}
+{% endblock %}
