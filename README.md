@@ -46,7 +46,7 @@ can then choose which clips are actually interesting and tweet/share those.
 - Python
 - Hand-crafted natural language processing using POS tagging and stop words
 - [VideoGrep](https://github.com/antiboredom/videogrep)
-- PyVideo?
+- [MoviePy](http://zulko.github.io/moviepy/)
 
 ## Annotation tool
 
@@ -59,6 +59,6 @@ agree with the chosen slices. The Annotation Tool provides an interactive
 interface so that you can manually annotate different parts of a video and
 then treat those as slices.
 
-- [Elasticsearch](http://www.elasticsearch.com/)
 - [Video.js](http://www.videojs.com/)
+- [Elasticsearch](http://www.elasticsearch.com/)
 - [Open Video Annotation project](http://www.openvideoannotation.org/)
