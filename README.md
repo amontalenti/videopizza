@@ -10,8 +10,7 @@ video delivered just the way you like it
 
 # Integration Project req's
 
-- Flask
-- livereload
+- FlasK
 - Python 2.7
 
 ## Wireframe
