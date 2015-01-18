@@ -10,7 +10,7 @@ video delivered just the way you like it
 
 # Integration Project req's
 
-- FlasK
+- Flask
 - Python 2.7
 
 ## Wireframe
