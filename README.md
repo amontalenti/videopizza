@@ -14,11 +14,11 @@ video delivered just the way you like it
 
 ## Wireframe
 
-- Link TODO
+[InVision Clickable Wireframe](http://invis.io/G42110QRX)
 
 ## Use cases
 
-[Use Cases GDoc](https://docs.google.com/document/d/1kvWGFQ0miHO-LFh-mWiLq8OghXatsshenioPZdnQOs0/edit)
+[Use Cases GDoc](http://goo.gl/QpM4Lk)
 
 ## Logo and Branding
 
