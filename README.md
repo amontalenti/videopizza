@@ -1,6 +1,12 @@
 # videopizza
 
-video delivered just the way you like it
+Video delivered just the way you like it.
+
+VideoPizza sifts through an entire video to find its richest portions and delivers them in easily-consumable, sharable "slices."
+
+It does this using fancy natural language processing against the transcript of the video, along with some server-side magic. A rich timeline annotation UI allows for manual editing of those slices, which we call "toppings". And a player allows those slices and toppings to be consumed in a tasty package, either in standalone mode or as an embed on a publisher website.
+
+NOTE: this is just a proof-of-concept.
 
 ![videopizza](https://raw.githubusercontent.com/amontalenti/videopizza/master/assets/videopizza-logo.png)
 
