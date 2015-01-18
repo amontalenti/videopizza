@@ -8,7 +8,7 @@ video delivered just the way you like it
 
 [http://videopizza.org](http://videopizza.org)
 
-# Integration Project req's
+## Integration Project req's
 
 - Flask
 - Python 2.7
@@ -71,3 +71,21 @@ then treat those as slices.
 - [Video.js](http://www.videojs.com/)
 - [Elasticsearch](http://www.elasticsearch.com/)
 - [Open Video Annotation project](http://www.openvideoannotation.org/)
+
+## Team Members
+
+- Andrew Montalenti
+- Amelia Winger-Bearskin
+- Alessandra Villaamil
+- Daniel Mclaughlin
+- Elizabeth Kilroy
+- Fred Ritchin
+- Jasmine Henderson
+- Kristina Budelis
+- Liam Andrew
+- Meredith Derby Berg
+- Ross Goodwin
+- Sharon Chen
+- Sky Dylan-Robbins
+- Steph Rymer
+- Tobias Wright
