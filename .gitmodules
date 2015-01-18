@@ -1,1 +1,7 @@
 
+[submodule "submodules/autoclipper"]
+	path = submodules/autoclipper
+	url = git@github.com:rossgoodwin/videopizza.git
+[submodule "submodules/annotator"]
+	path = submodules/annotator
+	url = git@github.com:mailbackwards/video-quote.git
